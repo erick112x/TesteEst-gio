@@ -1,0 +1,31 @@
+var A = {
+    nome : "Bob Esponja",
+    genero : "Masculino",
+    especie : "Esponja do Mar",
+    profissao : "Mestre cuca",
+    posicao : 1
+}
+
+var B = {
+    nome: "Patrick Estrela",
+    genero: "Masculino",
+    especie: "Estrela do Mar",
+    profissao: "Desempregado",
+    posicao: 2
+}
+
+var C = {
+    nome: "Sandy Bochechas",
+    genero: "",
+    especie: "",
+    profissao: "",
+    posicao: 2
+}
+
+var D = {
+    nome: "Sandy Bochechas",
+    genero: "",
+    especie: "",
+    profissao: "",
+    posicao: 2
+}

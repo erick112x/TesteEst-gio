@@ -1,0 +1,131 @@
+[{
+    "usuarios" :[
+    {
+        "nome": "Bob Esponja",
+        "genero": "Masculino",
+        "especie": "Esponja-do-mar",
+        "profissao": "Mestre-cuca",
+        "posicao": 1
+    },
+
+    {
+        "nome": "Patrick Estrela",
+        "genero": "Masculino",
+        "especie": "Estrela do mar",
+        "profissao": "Desempregado",
+        "posicao": 2
+    },
+
+    {
+        "nome" : "Sandy Bochechas",
+        "genero": "Feminino",
+        "especie": "Esquilo",
+        "profissao": "Cientista",
+        "posicao": 3
+    },
+
+    {
+        "nome" : "Eugene Hood Sirigueijo",
+        "genero": "Masculino",
+        "especie": "Caranguejo",
+        "profissao": "Gerente do Siri Cascudo",
+        "posicao": 4
+    },
+    
+    {
+        "nome" : "Pérola Sirigueijo",
+        "genero": "Feminino",
+        "especie": "Baleia",
+        "profissao": "Garota Programa do Siri Cascudo",
+        "posicao": 5
+    },
+
+    {
+        "nome" : "Lula Molusco",
+        "genero": "Masculino",
+        "especie": "Lula",
+        "profissao": "Caixa do Siri Cascudo",
+        "posicao": 6
+    },
+
+    {
+        "nome" : "Gary Caracol",
+        "genero": "Masculino",
+        "especie": "Caramujo",
+        "profissao": "Desempregado",
+        "posicao": 7
+    },
+
+    {
+        "nome" : "Sheldon J. Plankton",
+        "genero": "Masculino",
+        "especie": "Plâncton",
+        "profissao": "Dono do Balde de Lixo",
+        "posicao": 8
+    },
+
+    {
+        "nome" : "Senhora Puff",
+        "genero": "Feminino",
+        "especie": "Baiacu",
+        "profissao": "Professora",
+        "posicao": 9
+    },
+
+    {
+        "nome" : "Homem-Sereia",
+        "genero": "Masculino",
+        "especie": "Homem",
+        "profissao": "Herói",
+        "posicao": 10
+    },
+
+    {
+              "nome" : "Mexilhãozinho",
+        "genero": "Masculino",
+        "especie": "Homem",
+        "profissao": "Herói",
+        "prosicao": 11
+    },
+
+    {
+        "nome" : "Larry, A Lagosta",
+        "genero": "Masculino",
+        "especie": "Lagosta",
+        "profissao": "Salva-vidas",
+        "prosicao": 12
+    },
+
+    {
+        "nome" : "Perch Perkins",
+        "genero": "Masculino",
+        "especie": "Peixe",
+        "profissao": "Âncora do jornal da Fenda Do Biquini",
+        "posicao": 13
+    },
+
+    {
+        "nome" : "Princesa Mindy",
+        "genero": "Feminino",
+        "especie": "",
+        "profissao": "Desempregada",
+        "prosicao": 14
+    },
+
+    {
+        "nome" : "Patchy O Pirata",
+        "genero": "Masculinho",
+        "especie": "Homem",
+        "profissao": "Presidente do fã-clube do Bob Esponja",
+        "prosicao": 14
+    },
+
+    {
+        "nome" : "Potty o Papagaio",
+        "genero": "Masculinho",
+        "especie": "Homem",
+        "profissao": "Presidente do fã-clube do Bob Esponja",
+        "prosicao": 14
+    }
+]
+}]
